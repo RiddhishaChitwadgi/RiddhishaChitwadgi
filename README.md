@@ -7,9 +7,9 @@
 - 🤔 I’m looking for help with tensorflow
 - 💬 Ask me about Tableau and analytics
 - 🌐 Connect with Me:
-  💻 Tableau: https://public.tableau.com/app/profile/riddhisha.chitwadgi/vizzes
-  📧 Email: chitwadgi.r@northeastern.edu
-  💼 LinkedIn: https://www.linkedin.com/in/riddhishachitwadgi/
+  - 💻 Tableau: https://public.tableau.com/app/profile/riddhisha.chitwadgi/vizzes
+  - 📧 Email: chitwadgi.r@northeastern.edu
+  - 💼 LinkedIn: https://www.linkedin.com/in/riddhishachitwadgi/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I really cook well lol
-
+- ⚡ Fun fact: I really cook well lol!
+Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀✨
