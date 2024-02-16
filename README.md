@@ -8,7 +8,7 @@
 - 💬 Ask me about Tableau and analytics.
 - 🌐 **Connect with Me:**
   - 💻 Tableau: [Tableau Profile](https://public.tableau.com/app/profile/riddhisha.chitwadgi/vizzes)
-  - 📧 Email: [chitwadgi.r@northeastern.edu](mailto:chitwadgi.r@northeastern.edu)
+  - 📧 Email: [riddhishachitwadgi@gmail.com](mailto:riddhishachitwadgi@gmail.com)
   - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/riddhishachitwadgi/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I really cook well, lol!
