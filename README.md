@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Riddhisha, Aspiring Data Analyst!
+### Hi there 👋, I'm Riddhisha, Data Analyst!
 
 - 📊 Passionate about finding patterns and stories in data.
 - 🧮 Currently honing my skills in SQL, Python, and data visualization.
