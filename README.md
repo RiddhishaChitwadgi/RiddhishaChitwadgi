@@ -48,14 +48,11 @@ I’m a Data Analyst with a passion for transforming raw data into actionable in
 ### 🚀 Featured Projects  
 Here are a few examples of my work where I leveraged data analysis and visualization skills to solve real-world problems:
 
-1. **[Energy Consumption Trends in Boston](https://github.com/your-repo-link)**  
-   *Developed predictive models to analyze seasonal energy consumption patterns and optimized forecasting accuracy.*
+1. **[Sales Analysis](https://github.com/RiddhishaChitwadgi/Sales_Analysis)**  
+   *Developed Querries and Dashboard to analyze Sales patterns and trends.*
 
-2. **[Sneaker Resale Market Analysis](https://github.com/your-repo-link)**  
+2. **[Sneaker Resale Market Analysis](https://github.com/RiddhishaChitwadgi/Sneaker-resale-price-prediction)**  
    *Built a machine learning model to predict sneaker resale prices using historical data.*
-
-3. **[Open-Source Contributions](https://github.com/your-repo-link)**  
-   *Collaborated on a community project analyzing global CO2 emissions trends.*
 
 ---
 
